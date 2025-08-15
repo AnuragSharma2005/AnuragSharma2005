@@ -1,18 +1,18 @@
-About Me
+## About Me
 
-👋 I’m Anurag Sharma:
-  A 3rd-year Computer Science student with strong expertise in full-stack web development and a passion for building scalable, real-world applications.
+👋 **I’m Anurag Sharma**  
+&emsp;A 3rd-year Computer Science student with strong expertise in full-stack web development and a passion for building scalable, real-world applications.
 
-💻 Specialization:
-  Creating dynamic, responsive, and secure web solutions with a focus on clean architecture and efficient performance.
+💻 **Specialization**  
+&emsp;Creating dynamic, responsive, and secure web solutions with a focus on clean architecture and efficient performance.
 
-💡 Passion:
-  Problem-solving, exploring emerging technologies, and delivering high-quality code that makes a real impact.
+💡 **Passion**  
+&emsp;Problem-solving, exploring emerging technologies, and delivering high-quality code that makes a real impact.
 
-📬 Contact:
-   anurag1103.be23@chitkarauniversity.edu.in
+📬 **Contact**  
+&emsp;📧 anurag1103.be23@chitkarauniversity.edu.in
 
-
+<br>
 ## 💼 Tech Stack
 
 **Languages & Runtime**  
@@ -39,7 +39,7 @@ About Me
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-
+<br>
 
 ## 📎 Connect with Me
 
