@@ -13,9 +13,10 @@
 &emsp;📧 anurag1103.be23@chitkarauniversity.edu.in
 
 <br>
-## 💼 Tech Stack
 
-**Languages & Runtime**  
+## 💼 Tech Stack
+<br>
+**Languages & Runtime** <br>
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C/C++](https://img.shields.io/badge/C/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
