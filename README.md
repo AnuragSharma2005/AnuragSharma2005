@@ -1,11 +1,17 @@
-   ** ABOUT ME **
-- 👋 Hi, I’m Anurag Sharma
-- 👀 I’m interested in Web Developing.
-- 🌱 I’m currently learning by building projects.
-- 👯 I’m looking to collaborate on any open source projects using web application.
-- 😄 I love exploring and learning new skills as well as implement those in my projects.
-- 📫 How to reach me anurag1103.be23@chitkarauniversity.edu.in 
-- ⚡ Fun fact I also love to hear songs during coding.
+About Me
+
+👋 I’m Anurag Sharma:
+  A 3rd-year Computer Science student with strong expertise in full-stack web development and a passion for building scalable, real-world applications.
+
+💻 Specialization:
+  Creating dynamic, responsive, and secure web solutions with a focus on clean architecture and efficient performance.
+
+💡 Passion:
+  Problem-solving, exploring emerging technologies, and delivering high-quality code that makes a real impact.
+
+📬 Contact:
+   anurag1103.be23@chitkarauniversity.edu.in
+
 
 ## 💼 Tech Stack
 
