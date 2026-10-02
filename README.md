@@ -53,7 +53,7 @@
 
 | Platform | Link |
 |----------|------|
-| 🌐 **Portfolio** | [iamanurag.me](https://www.iamanurag.me/) |
+| 🌐 **Portfolio** | [ianuragsharma.me](https://www.iamanurag.me/) |
 | 📧 **Email** | [anuragwork2005@gmail.com](mailto:anuragwork2005@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/anuragsharma2311](https://linkedin.com/in/anuragsharma2311) |
 
